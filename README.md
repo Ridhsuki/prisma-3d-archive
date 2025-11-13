@@ -35,9 +35,9 @@ Repository ini saya gunakan untuk menyimpan proyek2 bekas editing 3D saya yang m
 ## screenshoots
   <br>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;" align="center">
-    <img width="500" alt="image" src="z-assets/1.jpg" />
-    <img width="500" alt="image" src="z-assets/2.jpg" />
-    <img width="500" alt="image" src="z-assets/3.jpg" />
+    <img alt="screenshoot project di aplikasi" height="411" style="margin: 9px;" src="z-assets/1.jpg" />
+    <img alt="screenshoot project di aplikasi" height="411" style="margin: 9px;" src="z-assets/2.jpg" />
+    <img alt="screenshoot project di aplikasi" height="411" style="margin: 9px;" src="z-assets/3.jpg" />
   </div>
 
 ## Implementasi proyek pada editing Video
