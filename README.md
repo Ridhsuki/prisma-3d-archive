@@ -71,14 +71,14 @@ Buka kembali aplikasi **Prisma3D**. Semua proyek yang di ekstrak tadi akan muncu
 
 ## Contoh implementasi proyek pada editing Video
 
-* https://www.instagram.com/reel/Cf3sdloL9IU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+* https://www.instagram.com/reel/Cf3sdloL9IU
 * https://youtu.be/33N0AzMCo28?si=-sYFlChUUeNsbsV4
 * https://youtu.be/IkcSM1_eD-E?si=HaUn2DRe1kf3M2gC
 * https://youtu.be/TOpI7a0nWIY?si=YXmpyM6yD4jlVzgJ
 * https://www.youtube.com/watch?v=JUjmETxshsQ
 * https://youtube.com/shorts/VI6w46NyC2Q?si=Y8BxNg8NXJJ3D4lV
-* https://www.instagram.com/reel/C4-Pj8ZBQCt/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+* https://www.instagram.com/reel/C4-Pj8ZBQCt
 
 view more on
-**[https://www.youtube.com/@RIDHO_AG/videos](https://www.youtube.com/@RIDHO_AG/videos)**
+**[https://www.youtube.com/@RIDHO_AG/](https://www.youtube.com/@RIDHO_AG/videos)**
 
